@@ -5,7 +5,7 @@ El juego da pistas sobre si el número secreto es mayor o menor que el intento d
 
 ## Cómo jugar
 
-1. Ejecuta el archivo `main.py`.
+1. Ejecuta el archivo `Adivina_el_Numero.py`.
 2. Introduce un número entre 1 y 100.
 3. El juego te dirá si estás cerca o lejos del número correcto.
 
@@ -14,4 +14,4 @@ El juego da pistas sobre si el número secreto es mayor o menor que el intento d
 
 ## Ejecución
 ```bash
-python main.py
+Adivina_el_Numero.py
