@@ -1,6 +1,6 @@
 # 🎯 Juego de Adivinar el Número en Python
 
-Este es un proyecto básico de consola en Python donde el jugador debe adivinar un número aleatorio entre 1 y 100. Es ideal como práctica para quienes están comenzando a programar.
+Este es un proyecto básico de consola en Python donde el jugador debe adivinar un número aleatorio entre 1 y 100.
 
 ## 🕹️ ¿Cómo funciona?
 
